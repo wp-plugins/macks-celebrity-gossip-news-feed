@@ -12,6 +12,8 @@ Lists the Latest Gossip from Hollywood.
 
 Mack's Celebrity Gossip News Feed plugin incorporates an external RSS news feed into a cool looking Flash news feed. The feed moves from bottom to top, with a nice Hollywood graphic, followed by headlines and stories. You can click on a story title or summary to see the actual page where it is posted. You can also edit the width and height of the plugin to suit your needs. Finally, you can select how many articles you want to appear in the feed: 1 to 12.
 
+Relevant Keywords: actor news, actresses news, celeb, celebrities, celebrity, celebrity news, celebs, gossip, gossip feed, gossip news, hollywood, hollywood news, latest dish, movie news, News, online gossip, perez hilton, tmz
+
 A variety of news is available, including:
 <ul>
 <li>Latest Gossip</li>
