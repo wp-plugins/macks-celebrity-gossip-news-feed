@@ -64,7 +64,6 @@ Plugin URI:   http://rick.jinlabs.com
 Description:  Add options to your dashboard widgets.
 Version:      0.1
 Author:       Ricardo Gonz&aacute;lez Castro
-Author URI:   http://rick.jinlabs.com/
 
 **************************************************************************/
 function celebrity_gossip_fetch_rss_items( $num ) {
