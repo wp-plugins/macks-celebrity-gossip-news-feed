@@ -12,6 +12,33 @@ Lists the Latest Gossip from Hollywood.
 
 Mack's Celebrity Gossip News Feed plugin incorporates an external RSS news feed into a cool looking Flash news feed. The feed moves from bottom to top, with a nice Hollywood graphic, followed by headlines and stories. You can click on a story title or summary to see the actual page where it is posted. You can also edit the width and height of the plugin to suit your needs. Finally, you can select how many articles you want to appear in the feed: 1 to 12.
 
+A variety of news is available, including:
+<ul>
+<li>Latest Gossip</li>
+<br />
+<li>Hollywood News</li>
+<br />
+<li>Celebrity Dish</li>
+<br />
+<li>Rumors</li>
+<br />
+<li>Celebrity Break Ups and/or Hook Ups</li>
+<br />
+<li>Movie News</li>
+<br />
+<li>Music News</li>
+<br />
+<li>Entertainment Highlights</li>
+<br />
+<li>Scandals</li>
+</ul>
+
+Top party destinations, inluding New York City, Los Angeles, Miami, and Las Vegas are also covered. Our server is supported by <a href="http://www.online-casinos-royale.com" target="_blank">Online Casinos</a> Royale dot com and <a href="http://www.nfl-betting.com" target="_blank">NFL Betting</a> dot com, two websites that pledged us for publicity. We welcome any other sponsors!
+
+Thanks,
+
+Mack Bincroft
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
