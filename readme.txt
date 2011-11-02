@@ -3,7 +3,7 @@ Contributors: mackbincroft
 Donate link: http://www.jawer.org
 Tags: news,celebrity,celebrities,gossip,celebrity news,gossip news,tmz,perez hilton,hollywood,hollywood news, movie news,actor news,actresses news,latest dish,online gossip,celeb,celebs,gossip feed,
 Requires at least: 2.2.1
-Tested up to: 3.1
+Tested up to: 3.2.1
 Stable tag: 0.5
 
 Lists the Latest Gossip from Hollywood.
