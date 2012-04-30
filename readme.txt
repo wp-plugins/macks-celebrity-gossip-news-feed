@@ -35,7 +35,7 @@ A variety of news is available, including:
 <li>Scandals</li>
 </ul>
 
-Top party destinations, inluding New York City, Los Angeles, Miami, and Las Vegas are also covered. Our server is supported by <a href="http://www.online-casinos-royale.com" target="_blank">Online Casinos</a> Royale dot com and <a href="http://www.nfl-betting.com" target="_blank">NFL Betting</a> dot com, two websites that pledged us for publicity. We welcome any other sponsors! For non English readers: 该软件支持 <a href="http://www.888tiger.com">网上赌场</a> 从亚太地区的网站 具有强烈的重点为 <a href="http://www.888ace.com">网上百家乐</a> 玩游戏。. 
+Top party destinations, inluding New York City, Los Angeles, Miami, and Las Vegas are also covered. Our server is supported by <a href="http://www.online-casinos-royale.com" target="_blank">Online Casinos</a> Royale dot com and <a href="http://www.nfl-betting.com" target="_blank">NFL Betting</a> dot com, two websites that pledged us for publicity. We welcome all! 
 
 Thanks,
 
