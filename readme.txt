@@ -35,8 +35,6 @@ A variety of news is available, including:
 <li>Scandals</li>
 </ul>
 
-Top party destinations, inluding New York City, Los Angeles, Miami, and Las Vegas are also covered. Our server is supported by <a href="http://www.online-casinos-royale.com" target="_blank">Online Casinos</a> Royale dot com and <a href="http://www.nfl-betting.com" target="_blank">NFL Betting</a> dot com, two websites that pledged us for publicity. We welcome all! 
-
 Thanks,
 
 Mack Bincroft
